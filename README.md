@@ -1,0 +1,2 @@
+# minesgame
+a simple game
